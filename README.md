@@ -1,46 +1,60 @@
-Interactive Periodic Table
-A basic interactive periodic table built with HTML, CSS, and JavaScript.
+# Interactive Periodic Table
 
-Features
-Displays the full periodic table of elements.
-Interactive UI: Hover over or click elements to view more details.
-Responsive design for desktops and mobile devices.
-Simple, clean interface for easy learning and exploration.
-Demo
-<img width="1811" height="914" alt="image" src="https://github.com/user-attachments/assets/2345668f-67d4-48ea-a253-3defdaec9ab9" />
+A basic interactive periodic table built with **HTML**, **CSS**, and **JavaScript**.
 
+---
 
-Getting Started
-Prerequisites
-A modern web browser
-Installation
-Clone the repository:
-bash
-git clone https://github.com/codeblockster/Interactive-Periodic-Table.git
-Open the index.html file in your browser.
-No build steps or dependencies required.
+## 🌟 Features
 
-Usage
-Open the app in your browser.
-Hover over or click any element to see its details (such as name, atomic number, symbol, etc.).
-Explore the periodic table interactively.
-File Structure
+- **Interactive Elements**: Hover or click on elements to see details.
+- **Complete Periodic Table**: All chemical elements, color-coded by category.
+- **Responsive Design**: Looks great on desktop and mobile.
+- **No Dependencies**: Pure HTML and CSS—just open and use!
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone this repository**
+    ```bash
+    git clone https://github.com/codeblockster/Interactive-Periodic-Table.git
+    ```
+2. **Open `index.html` in your browser**
+    - No build steps or installations required!
+
+---
+
+## 📁 Project Structure
+
+Interactive-Periodic-Table/ ├── index.html # Main HTML file with the periodic table ├── style.css # Styles for layout and appearance ├── script.js # Handles interactivity (if included) └── README.md # Project documentation
+
 Code
-Interactive-Periodic-Table/
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-index.html: The main HTML file containing the periodic table layout.
-style.css: Styles for the periodic table.
-script.js: Handles interactivity (showing element details, etc.).
-README.md: Project documentation.
-Customization
-To modify element data, update the relevant section in script.js.
-To change the appearance, edit style.css.
-Contributing
-Contributions are welcome! Please open an issue or submit a pull request.
 
-License
-MIT
+---
 
+## ✏️ Customization
+
+- **Edit `index.html`** to add or modify element information.
+- **Update `style.css`** for custom colors or layout changes.
+- **Enhance interactivity** via `script.js` as needed.
+
+  ## Demo
+  
+<img width="1811" height="914" alt="Screenshot 2025-07-24 162039" src="https://github.com/user-attachments/assets/14410e33-dd6c-444c-b0d2-f703780b160f" />
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!  
+Feel free to open Issues or submit Pull Requests to improve this project.
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+Enjoy exploring the periodic table!
