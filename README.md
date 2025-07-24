@@ -7,7 +7,8 @@ Interactive UI: Hover over or click elements to view more details.
 Responsive design for desktops and mobile devices.
 Simple, clean interface for easy learning and exploration.
 Demo
-![screenshot or gif here]
+<img width="1811" height="914" alt="image" src="https://github.com/user-attachments/assets/2345668f-67d4-48ea-a253-3defdaec9ab9" />
+
 
 Getting Started
 Prerequisites
